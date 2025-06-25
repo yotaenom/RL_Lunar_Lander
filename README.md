@@ -1,6 +1,6 @@
 # LunarLander-v3: DQN vs DDQN
 
-![Lunar Lander](https://upload.wikimedia.org/wikipedia/commons/2/2c/OpenAI_gym_logo.svg)
+![Lunar Lander](https://github.com/yotaenom/RL_Lunar_Lander/blob/main/gif_ddqn/LUNARLANDER_DQN_SUCCESS_EP13_FINAL.gif)
 
 This project implements and compares Deep Q-Network (DQN), Double DQN (DDQN), and an enhanced DDQN_v2 agent to solve the LunarLander-v3 task using OpenAI Gym.
 
